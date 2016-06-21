@@ -2,7 +2,7 @@
 <p>
 The Pentbox is a safety kit containing various tools for streamlining PenTest conducting a job easily.<br>
 It is programmed in Ruby and oriented to GNU / Linux, with support for Windows, MacOS and every systems where Ruby is installed. <br>
-In this small Documentation we will explain how to set up a honeypot in Kali Linux or Mac OSX.<br>
+In this small Documentation we will explain how to set up a honeypot in Kali Linux.<br>
 If you don’t know what is a honeypot, <br>
 “a honeypot is a computer security mechanism set to detect, deflect, or, in some manner, counteract attempts at unauthorized use of information Systems.“
 </p>
