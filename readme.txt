@@ -1,22 +1,24 @@
-Documentation
+#Documentation
 
-Download Pentbox: Simply type in the following command in your terminal to download pentbox-1.8.
+#Download Pentbox: 
 
-root@MrMugiwara:~# wget 
+  Simply type in the following command in your terminal to download pentbox-1.8.
 
-Uncompress pentbox files Decompressing the file with the following command:
+            root@MrMugiwara:~# wget 
 
-root@MrMugiwara:~# tar -zxvf pentbox-1.8.tar.gz
+  Uncompress pentbox files Decompressing the file with the following command:
 
-Run pentbox ruby script Change directory into pentbox folder
+            root@MrMugiwara:~# tar -zxvf pentbox-1.8.tar.gz
 
-root@MrMugiwara:~# cd pentbox-1.8/
+  Run pentbox ruby script Change directory into pentbox folder
 
-root@MrMugiwara:~/pentbox-1.8# ls
+            root@MrMugiwara:~# cd pentbox-1.8/
 
-Run pentbox using the following command
+            root@MrMugiwara:~/pentbox-1.8# ls
 
-root@MrMugiwara:~# ./pentbox.rb
+  Run pentbox using the following command
+
+            root@MrMugiwara:~# ./pentbox.rb
 
 Setup a honeypot Use option 2 (Network Tools) and then option 3 (Honeypot).
 
