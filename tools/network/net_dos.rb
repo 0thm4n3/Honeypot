@@ -1,9 +1,6 @@
 =begin
 
-    Copyright (C) 2009, 2010, 2011
-
-    Alberto Ortega Llamas
-    alberto.kun666[at]gmail[dot]com
+    Copyright (C) 2016
 
     PenTBox (Penetration Testing Box)
 
