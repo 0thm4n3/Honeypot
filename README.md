@@ -1,4 +1,4 @@
-#Posted On Github By Soufiane Boussali :
+#Posted On Github By :
 ![alt tag](https://github.com/MrMugiwara/MrMugiwara.github.io/blob/master/images/Mr.Mugiwara.jpg)
 #Documentation
 <p>
