@@ -10,18 +10,18 @@ If you don’t know what is a honeypot, <br>
 
   Simply type in the following command in your terminal to download pentbox-1.8.
 
-            root@MrMugiwara:~# git clone git@github.com:MrMugiwara/Honeypot.git
+                     root@MrMugiwara:~# git clone git@github.com:MrMugiwara/Honeypot.git
 
 #Run pentbox ruby script 
 Change directory into pentbox folder
 
-            root@MrMugiwara:~# cd Honeypot/
+                     root@MrMugiwara:~# cd Honeypot/
 
-            root@MrMugiwara:~/Honeypot# ls
+                     root@MrMugiwara:~/Honeypot# ls
 
   Run pentbox using the following command
 
-            root@MrMugiwara:~# ./pentbox.rb
+                    root@MrMugiwara:~/Honeypot# ./pentbox.rb
 
 #Setup a honeypot 
 Use option 2 (Network Tools) and then option 3 (Honeypot).
