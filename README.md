@@ -26,7 +26,7 @@ and in the terminal you should see “HONEYPOT ACTIVATED ON PORT 80” followed 
 ![alt tag](https://github.com/MrMugiwara/pentbox-1.8/blob/master/other/honeypot.png)
 </p>Now, if you do the same steps but this time select Option 2 (Manual Configuration), you should see more extra options </p>
 ![alt tag](https://github.com/MrMugiwara/pentbox-1.8/blob/master/other/honeyset.png)
-<p>Do the same steps but select port 22 this time (SSH Port). Then do a port forwarding in your home router to forward port external port 22 to this machines’ port 22. Alternatively, set it up in a VPS in your cloud server. You’d be amazed how many bots out there scanning port SSH continuously.
+<p>Do the same steps but select port 22 this time (SSH Port).<br> Then do a port forwarding in your home router to forward port external port 22 to this machines’ port 22. Alternatively, set it up in a VPS in your cloud server.<br> You’d be amazed how many bots out there scanning port SSH continuously.<br>
 You know what you do then? You try to hack them back for MrMugiwara!</p>
 
 Source: Pentbox
