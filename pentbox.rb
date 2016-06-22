@@ -100,10 +100,13 @@ case banner
 		puts "             `YY~~~~YY'"
 		puts "              ||    ||"
 	when 2
-		puts "             .__."
-		puts "             (oo)____"
-		puts "             (__)    )--*"
-		puts "                ||--|| "
+	        puts "		 ____________"
+		puts "  	< Mr Mugiwara >"
+		puts "	  	 -------------"
+		puts "  	       \   ,__,"
+		puts "  	        \  (oo)____"
+		puts "  	           (__)    )\"
+		puts "			      ||--|| *""
 	when 3
 		# This banner is thanks to figlet.
 		puts "    ____          _____ ____"
